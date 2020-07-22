@@ -1,0 +1,2360 @@
+2020/07/22 17:50:11 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:11 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:11 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:11 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:11 [debug] 12156#2536: select event: fd:336 wr:0
+2020/07/22 17:50:11 [debug] 12156#2536: select event: fd:216 wr:0
+2020/07/22 17:50:11 [debug] 12156#2536: select event: fd:600 wr:0
+2020/07/22 17:50:11 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:12 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:12 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:12 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:12 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:12 [debug] 12156#2536: select event: fd:336 wr:0
+2020/07/22 17:50:12 [debug] 12156#2536: select event: fd:216 wr:0
+2020/07/22 17:50:12 [debug] 12156#2536: select event: fd:600 wr:0
+2020/07/22 17:50:12 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:12 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:12 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:12 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:12 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:12 [debug] 12156#2536: select event: fd:336 wr:0
+2020/07/22 17:50:12 [debug] 12156#2536: select event: fd:216 wr:0
+2020/07/22 17:50:12 [debug] 12156#2536: select event: fd:600 wr:0
+2020/07/22 17:50:12 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:13 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:13 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:13 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:13 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:13 [debug] 12156#2536: select event: fd:336 wr:0
+2020/07/22 17:50:13 [debug] 12156#2536: select event: fd:216 wr:0
+2020/07/22 17:50:13 [debug] 12156#2536: select event: fd:600 wr:0
+2020/07/22 17:50:13 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:13 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:13 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:13 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:13 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:13 [debug] 12156#2536: select event: fd:336 wr:0
+2020/07/22 17:50:13 [debug] 12156#2536: select event: fd:216 wr:0
+2020/07/22 17:50:13 [debug] 12156#2536: select event: fd:600 wr:0
+2020/07/22 17:50:13 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:14 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:14 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:14 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:14 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:14 [debug] 12156#2536: select event: fd:336 wr:0
+2020/07/22 17:50:14 [debug] 12156#2536: select event: fd:216 wr:0
+2020/07/22 17:50:14 [debug] 12156#2536: select event: fd:600 wr:0
+2020/07/22 17:50:14 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:14 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:14 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:14 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:14 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:14 [debug] 12156#2536: select event: fd:336 wr:0
+2020/07/22 17:50:14 [debug] 12156#2536: select event: fd:216 wr:0
+2020/07/22 17:50:14 [debug] 12156#2536: select event: fd:600 wr:0
+2020/07/22 17:50:14 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:15 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:15 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:15 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:15 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:15 [debug] 12156#2536: select event: fd:336 wr:0
+2020/07/22 17:50:15 [debug] 12156#2536: select event: fd:216 wr:0
+2020/07/22 17:50:15 [debug] 12156#2536: select event: fd:600 wr:0
+2020/07/22 17:50:15 [debug] 12156#2536: select timer: 450
+2020/07/22 17:50:15 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:15 [debug] 12156#2536: timer delta: 451
+2020/07/22 17:50:15 [debug] 12156#2536: *67 event timer del: 216: 1978548902
+2020/07/22 17:50:15 [debug] 12156#2536: *67 http wait request handler
+2020/07/22 17:50:15 [info] 12156#2536: *67 client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2020/07/22 17:50:15 [debug] 12156#2536: *67 close http connection: 216
+2020/07/22 17:50:15 [debug] 12156#2536: *67 select del event fd:216 ev:0
+2020/07/22 17:50:15 [debug] 12156#2536: *67 reusable connection: 0
+2020/07/22 17:50:15 [debug] 12156#2536: *67 free: 030109E0, unused: 92
+2020/07/22 17:50:15 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:15 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:15 [debug] 12156#2536: select event: fd:336 wr:0
+2020/07/22 17:50:15 [debug] 12156#2536: select event: fd:600 wr:0
+2020/07/22 17:50:15 [debug] 12156#2536: select timer: 249
+2020/07/22 17:50:15 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:15 [debug] 12156#2536: timer delta: 250
+2020/07/22 17:50:15 [debug] 12156#2536: *68 event timer del: 600: 1978549152
+2020/07/22 17:50:15 [debug] 12156#2536: *68 http wait request handler
+2020/07/22 17:50:15 [info] 12156#2536: *68 client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2020/07/22 17:50:15 [debug] 12156#2536: *68 close http connection: 600
+2020/07/22 17:50:15 [debug] 12156#2536: *68 select del event fd:600 ev:0
+2020/07/22 17:50:15 [debug] 12156#2536: *68 reusable connection: 0
+2020/07/22 17:50:15 [debug] 12156#2536: *68 free: 03010AE8, unused: 92
+2020/07/22 17:50:15 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:15 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:15 [debug] 12156#2536: select event: fd:336 wr:0
+2020/07/22 17:50:15 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:16 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:16 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:16 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:16 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:16 [debug] 12156#2536: select event: fd:336 wr:0
+2020/07/22 17:50:16 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:16 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:16 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:16 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:16 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:16 [debug] 12156#2536: select event: fd:336 wr:0
+2020/07/22 17:50:16 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:17 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:17 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:17 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:17 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:17 [debug] 12156#2536: select event: fd:336 wr:0
+2020/07/22 17:50:17 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:17 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:17 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:17 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:17 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:17 [debug] 12156#2536: select event: fd:336 wr:0
+2020/07/22 17:50:17 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:18 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:18 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:18 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:18 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:18 [debug] 12156#2536: select event: fd:336 wr:0
+2020/07/22 17:50:18 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:18 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:18 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:18 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:18 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:18 [debug] 12156#2536: select event: fd:336 wr:0
+2020/07/22 17:50:18 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:19 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:19 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:19 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:19 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:19 [debug] 12156#2536: select event: fd:336 wr:0
+2020/07/22 17:50:19 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:19 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:19 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:19 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:19 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:19 [debug] 12156#2536: select event: fd:336 wr:0
+2020/07/22 17:50:19 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:20 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:20 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:20 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:20 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:20 [debug] 12156#2536: select event: fd:336 wr:0
+2020/07/22 17:50:20 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:20 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:20 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:20 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:20 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:20 [debug] 12156#2536: select event: fd:336 wr:0
+2020/07/22 17:50:20 [debug] 12156#2536: select timer: 216
+2020/07/22 17:50:21 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:21 [debug] 12156#2536: timer delta: 217
+2020/07/22 17:50:21 [debug] 12156#2536: *66 event timer del: 336: 1978554375
+2020/07/22 17:50:21 [debug] 12156#2536: *66 http keepalive handler
+2020/07/22 17:50:21 [debug] 12156#2536: *66 close http connection: 336
+2020/07/22 17:50:21 [debug] 12156#2536: *66 select del event fd:336 ev:0
+2020/07/22 17:50:21 [debug] 12156#2536: *66 reusable connection: 0
+2020/07/22 17:50:21 [debug] 12156#2536: *66 free: 00000000
+2020/07/22 17:50:21 [debug] 12156#2536: *66 free: 0317D668, unused: 28
+2020/07/22 17:50:21 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:21 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:21 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:21 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:21 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:21 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:21 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:21 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:22 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:22 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:22 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:22 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:22 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:22 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:22 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:22 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:22 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:22 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:23 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:23 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:23 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:23 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:23 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:23 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:23 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:23 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:23 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:23 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:24 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:24 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:24 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:24 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:24 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:24 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:24 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:24 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:24 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:24 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:25 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:25 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:25 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:25 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:25 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:25 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:25 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:25 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:25 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:25 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:26 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:26 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:26 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:26 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:26 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:26 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:26 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:26 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:26 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:26 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:27 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:27 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:27 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:27 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:27 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:27 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:27 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:27 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:27 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:27 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:28 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:28 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:28 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:28 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:28 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:28 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:28 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:28 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:28 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:28 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:29 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:29 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:29 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:29 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:29 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:29 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:29 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:29 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:29 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:29 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:30 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:30 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:30 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:30 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:30 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:30 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:30 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:30 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:30 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:30 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:31 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:31 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:31 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:31 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:31 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:31 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:31 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:31 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:31 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:31 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:32 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:32 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:32 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:32 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:32 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:32 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:32 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:32 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:32 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:32 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:33 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:33 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:33 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:33 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:33 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:33 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:33 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:33 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:33 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:33 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:34 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:34 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:34 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:34 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:34 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:34 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:34 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:34 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:34 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:34 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:35 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:35 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:35 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:35 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:35 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:35 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:35 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:35 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:35 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:35 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:36 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:36 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:36 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:36 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:36 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:36 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:36 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:36 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:36 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:36 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:37 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:37 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:37 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:37 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:37 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:37 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:37 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:37 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:37 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:37 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:38 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:38 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:38 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:38 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:38 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:38 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:38 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:38 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:38 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:38 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:39 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:39 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:39 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:39 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:39 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:39 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:39 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:39 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:39 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:39 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:40 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:40 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:40 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:40 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:40 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:40 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:40 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:40 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:40 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:40 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:41 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:41 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:41 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:41 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:41 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:41 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:41 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:41 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:41 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:41 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:42 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:42 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:42 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:42 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:42 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:42 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:42 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:42 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:42 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:42 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:43 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:43 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:43 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:43 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:43 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:43 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:43 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:43 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:43 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:43 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:44 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:44 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:44 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:44 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:44 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:44 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:44 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:44 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:44 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:44 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:45 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:45 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:45 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:45 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:45 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:45 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:45 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:45 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:45 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:45 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:46 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:46 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:46 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:46 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:46 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:46 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:46 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:46 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:46 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:46 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:47 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:47 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:47 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:47 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:47 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:47 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:47 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:47 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:47 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:47 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:48 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:48 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:48 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:48 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:48 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:48 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:48 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:48 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:48 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:48 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:49 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:49 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:49 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:49 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:49 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:49 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:49 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:49 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:49 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:49 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:50 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:50 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:50 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:50 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:50 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:50 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:50 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:50 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:50 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:50 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:51 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:51 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:51 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:51 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:51 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:51 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:51 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:51 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:51 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:51 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:52 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:52 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:52 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:52 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:52 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:52 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:52 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:52 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:52 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:52 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:53 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:53 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:53 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:53 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:53 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:53 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:53 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:53 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:53 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:53 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:54 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:54 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:54 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:54 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:54 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:54 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:54 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:54 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:54 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:54 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:55 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:55 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:55 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:55 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:55 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:55 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:55 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:55 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:55 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:55 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:56 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:56 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:56 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:56 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:56 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:56 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:56 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:56 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:56 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:56 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:57 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:57 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:57 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:57 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:57 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:57 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:57 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:57 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:57 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:57 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:58 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:58 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:58 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:58 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:58 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:58 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:58 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:50:58 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:58 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:58 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:59 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:59 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:59 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:59 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:59 [debug] 12156#2536: select timer: 500
+2020/07/22 17:50:59 [debug] 12156#2536: select ready 0
+2020/07/22 17:50:59 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:50:59 [debug] 12156#2536: worker cycle
+2020/07/22 17:50:59 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:50:59 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:00 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:00 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:00 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:00 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:00 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:00 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:00 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:00 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:00 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:00 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:01 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:01 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:01 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:01 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:01 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:01 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:01 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:01 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:01 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:01 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:02 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:02 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:02 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:02 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:02 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:02 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:02 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:02 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:02 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:02 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:03 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:03 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:03 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:03 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:03 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:03 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:03 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:03 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:03 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:03 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:04 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:04 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:04 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:04 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:04 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:04 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:04 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:04 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:04 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:04 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:05 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:05 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:05 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:05 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:05 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:05 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:05 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:05 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:05 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:05 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:06 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:06 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:06 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:06 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:06 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:06 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:06 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:06 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:06 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:06 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:07 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:07 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:07 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:07 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:07 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:07 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:07 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:07 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:07 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:07 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:08 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:08 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:08 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:08 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:08 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:08 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:08 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:08 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:08 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:08 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:09 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:09 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:09 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:09 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:09 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:09 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:09 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:09 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:09 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:09 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:10 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:10 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:10 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:10 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:10 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:10 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:10 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:10 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:10 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:10 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:11 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:11 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:11 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:11 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:11 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:11 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:11 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:11 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:11 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:11 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:12 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:12 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:12 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:12 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:12 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:12 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:12 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:12 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:12 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:12 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:13 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:13 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:13 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:13 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:13 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:13 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:13 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:13 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:13 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:13 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:14 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:14 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:14 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:14 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:14 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:14 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:14 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:14 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:14 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:14 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:15 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:15 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:15 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:15 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:15 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:15 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:15 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:15 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:15 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:15 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:16 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:16 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:16 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:16 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:16 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:16 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:16 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:16 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:16 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:16 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:17 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:17 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:17 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:17 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:17 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:17 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:17 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:17 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:17 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:17 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:18 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:18 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:18 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:18 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:18 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:18 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:18 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:18 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:18 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:18 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:19 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:19 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:19 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:19 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:19 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:19 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:19 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:19 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:19 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:19 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:20 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:20 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:20 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:20 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:20 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:20 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:20 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:20 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:20 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:20 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:21 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:21 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:21 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:21 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:21 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:21 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:21 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:21 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:21 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:21 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:22 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:22 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:22 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:22 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:22 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:22 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:22 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:22 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:22 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:22 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:23 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:23 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:23 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:23 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:23 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:23 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:23 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:23 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:23 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:23 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:24 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:24 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:24 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:24 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:24 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:24 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:24 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:24 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:24 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:24 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:25 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:25 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:25 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:25 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:25 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:25 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:25 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:25 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:25 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:25 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:26 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:26 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:26 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:26 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:26 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:26 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:26 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:26 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:26 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:26 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:27 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:27 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:27 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:27 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:27 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:27 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:27 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:27 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:27 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:27 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:28 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:28 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:28 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:28 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:28 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:28 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:28 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:28 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:28 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:28 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:29 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:29 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:29 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:29 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:29 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:29 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:29 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:29 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:29 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:29 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:30 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:30 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:30 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:30 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:30 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:30 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:30 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:30 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:30 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:30 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:31 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:31 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:31 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:31 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:31 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:31 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:31 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:31 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:31 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:31 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:32 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:32 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:32 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:32 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:32 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:32 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:32 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:32 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:32 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:32 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:33 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:33 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:33 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:33 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:33 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:33 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:33 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:33 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:33 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:33 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:34 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:34 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:34 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:34 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:34 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:34 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:34 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:34 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:34 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:34 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:35 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:35 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:35 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:35 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:35 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:35 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:35 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:35 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:35 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:35 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:36 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:36 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:36 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:36 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:36 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:36 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:36 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:36 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:36 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:36 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:37 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:37 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:37 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:37 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:37 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:37 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:37 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:37 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:37 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:37 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:38 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:38 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:38 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:38 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:38 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:38 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:38 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:38 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:38 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:38 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:39 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:39 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:39 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:39 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:39 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:39 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:39 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:39 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:39 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:39 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:40 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:40 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:40 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:40 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:40 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:40 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:40 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:40 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:40 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:40 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:41 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:41 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:41 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:41 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:41 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:41 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:41 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:41 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:41 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:41 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:42 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:42 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:42 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:42 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:42 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:42 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:42 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:42 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:42 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:42 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:43 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:43 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:43 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:43 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:43 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:43 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:43 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:43 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:43 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:43 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:44 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:44 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:44 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:44 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:44 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:44 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:44 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:44 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:44 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:44 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:45 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:45 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:45 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:45 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:45 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:45 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:45 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:45 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:45 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:45 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:46 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:46 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:46 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:46 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:46 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:46 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:46 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:46 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:46 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:46 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:47 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:47 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:47 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:47 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:47 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:47 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:47 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:47 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:47 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:47 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:48 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:48 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:48 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:48 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:48 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:48 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:48 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:48 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:48 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:48 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:49 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:49 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:49 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:49 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:49 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:49 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:49 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:49 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:49 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:49 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:50 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:50 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:50 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:50 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:50 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:50 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:50 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:50 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:50 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:50 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:51 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:51 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:51 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:51 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:51 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:51 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:51 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:51 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:51 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:51 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:52 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:52 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:52 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:52 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:52 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:52 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:52 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:52 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:52 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:52 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:53 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:53 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:53 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:53 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:53 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:53 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:53 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:53 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:53 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:53 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:54 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:54 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:54 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:54 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:54 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:54 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:54 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:54 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:54 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:54 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:55 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:55 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:55 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:55 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:55 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:55 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:55 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:55 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:55 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:55 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:56 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:56 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:56 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:56 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:56 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:56 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:56 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:56 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:56 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:56 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:57 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:57 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:57 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:57 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:57 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:57 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:57 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:57 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:57 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:57 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:58 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:58 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:58 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:58 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:58 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:58 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:58 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:51:58 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:58 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:58 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:59 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:59 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:59 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:59 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:59 [debug] 12156#2536: select timer: 500
+2020/07/22 17:51:59 [debug] 12156#2536: select ready 0
+2020/07/22 17:51:59 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:51:59 [debug] 12156#2536: worker cycle
+2020/07/22 17:51:59 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:51:59 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:00 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:00 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:00 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:00 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:00 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:00 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:00 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:00 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:00 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:00 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:01 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:01 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:01 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:01 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:01 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:01 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:01 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:01 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:01 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:01 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:02 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:02 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:02 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:02 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:02 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:02 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:02 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:02 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:02 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:02 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:03 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:03 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:03 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:03 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:03 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:03 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:03 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:03 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:03 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:03 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:04 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:04 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:04 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:04 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:04 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:04 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:04 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:04 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:04 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:04 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:05 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:05 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:05 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:05 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:05 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:05 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:05 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:05 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:05 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:05 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:06 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:06 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:06 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:06 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:06 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:06 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:06 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:06 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:06 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:06 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:07 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:07 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:07 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:07 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:07 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:07 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:07 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:07 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:07 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:07 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:08 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:08 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:08 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:08 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:08 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:08 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:08 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:08 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:08 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:08 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:09 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:09 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:09 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:09 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:09 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:09 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:09 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:09 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:09 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:09 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:10 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:10 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:10 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:10 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:10 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:10 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:10 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:10 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:10 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:10 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:11 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:11 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:11 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:11 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:11 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:11 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:11 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:11 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:11 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:11 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:12 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:12 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:12 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:12 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:12 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:12 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:12 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:12 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:12 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:12 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:13 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:13 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:13 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:13 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:13 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:13 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:13 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:13 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:13 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:13 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:14 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:14 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:14 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:14 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:14 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:14 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:14 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:14 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:14 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:14 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:15 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:15 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:15 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:15 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:15 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:15 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:15 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:15 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:15 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:15 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:16 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:16 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:16 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:16 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:16 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:16 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:16 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:16 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:16 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:16 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:17 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:17 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:17 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:17 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:17 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:17 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:17 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:17 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:17 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:17 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:18 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:18 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:18 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:18 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:18 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:18 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:18 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:18 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:18 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:18 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:19 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:19 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:19 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:19 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:19 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:19 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:19 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:19 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:19 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:19 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:20 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:20 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:20 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:20 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:20 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:20 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:20 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:20 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:20 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:20 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:21 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:21 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:21 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:21 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:21 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:21 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:21 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:21 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:21 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:21 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:22 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:22 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:22 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:22 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:22 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:22 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:22 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:22 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:22 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:22 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:23 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:23 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:23 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:23 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:23 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:23 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:23 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:23 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:23 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:23 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:24 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:24 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:24 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:24 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:24 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:24 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:24 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:24 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:24 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:24 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:25 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:25 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:25 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:25 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:25 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:25 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:25 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:25 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:25 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:25 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:26 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:26 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:26 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:26 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:26 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:26 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:26 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:26 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:26 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:26 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:27 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:27 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:27 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:27 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:27 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:27 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:27 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:27 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:27 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:27 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:28 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:28 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:28 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:28 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:28 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:28 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:28 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:28 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:28 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:28 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:29 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:29 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:29 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:29 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:29 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:29 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:29 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:29 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:29 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:29 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:30 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:30 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:30 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:30 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:30 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:30 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:30 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:30 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:30 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:30 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:31 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:31 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:31 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:31 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:31 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:31 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:31 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:31 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:31 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:31 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:32 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:32 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:32 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:32 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:32 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:32 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:32 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:32 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:32 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:32 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:33 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:33 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:33 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:33 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:33 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:33 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:33 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:33 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:33 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:33 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:34 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:34 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:34 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:34 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:34 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:34 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:34 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:34 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:34 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:34 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:35 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:35 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:35 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:35 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:35 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:35 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:35 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:35 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:35 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:35 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:36 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:36 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:36 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:36 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:36 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:36 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:36 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:36 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:36 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:36 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:37 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:37 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:37 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:37 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:37 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:37 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:37 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:37 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:37 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:37 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:38 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:38 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:38 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:38 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:38 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:38 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:38 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:38 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:38 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:38 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:39 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:39 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:39 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:39 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:39 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:39 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:39 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:39 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:39 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:39 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:40 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:40 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:40 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:40 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:40 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:40 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:40 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:40 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:40 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:40 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:41 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:41 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:41 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:41 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:41 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:41 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:41 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:41 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:41 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:41 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:42 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:42 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:42 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:42 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:42 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:42 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:42 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:42 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:42 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:42 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:43 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:43 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:43 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:43 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:43 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:43 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:43 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:43 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:43 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:43 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:44 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:44 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:44 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:44 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:44 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:44 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:44 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:44 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:44 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:44 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:45 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:45 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:45 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:45 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:45 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:45 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:45 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:45 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:45 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:45 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:46 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:46 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:46 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:46 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:46 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:46 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:46 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:46 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:46 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:46 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:47 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:47 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:47 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:47 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:47 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:47 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:47 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:47 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:47 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:47 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:48 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:48 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:48 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:48 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:48 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:48 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:48 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:48 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:48 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:48 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:49 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:49 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:49 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:49 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:49 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:49 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:49 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:49 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:49 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:49 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:50 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:50 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:50 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:50 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:50 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:50 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:50 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:50 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:50 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:50 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:51 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:51 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:51 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:51 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:51 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:51 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:51 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:51 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:51 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:51 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:52 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:52 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:52 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:52 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:52 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:52 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:52 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:52 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:52 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:52 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:53 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:53 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:53 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:53 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:53 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:53 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:53 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:53 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:53 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:53 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:54 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:54 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:54 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:54 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:54 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:54 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:54 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:54 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:54 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:54 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:55 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:55 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:55 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:55 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:55 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:55 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:55 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:55 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:55 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:55 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:56 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:56 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:56 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:56 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:56 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:56 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:56 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:56 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:56 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:56 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:57 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:57 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:57 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:57 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:57 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:57 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:57 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:57 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:57 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:57 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:58 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:58 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:58 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:58 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:58 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:58 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:58 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:52:58 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:58 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:58 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:59 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:59 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:59 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:59 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:59 [debug] 12156#2536: select timer: 500
+2020/07/22 17:52:59 [debug] 12156#2536: select ready 0
+2020/07/22 17:52:59 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:52:59 [debug] 12156#2536: worker cycle
+2020/07/22 17:52:59 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:52:59 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:00 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:00 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:00 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:00 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:00 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:00 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:00 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:00 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:00 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:00 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:01 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:01 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:01 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:01 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:01 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:01 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:01 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:01 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:01 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:01 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:02 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:02 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:02 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:02 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:02 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:02 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:02 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:02 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:02 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:02 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:03 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:03 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:03 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:03 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:03 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:03 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:03 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:03 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:03 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:03 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:04 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:04 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:04 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:04 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:04 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:04 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:04 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:04 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:04 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:04 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:05 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:05 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:05 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:05 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:05 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:05 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:05 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:05 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:05 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:05 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:06 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:06 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:06 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:06 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:06 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:06 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:06 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:06 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:06 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:06 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:07 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:07 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:07 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:07 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:07 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:07 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:07 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:07 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:07 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:07 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:08 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:08 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:08 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:08 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:08 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:08 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:08 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:08 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:08 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:08 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:09 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:09 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:09 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:09 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:09 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:09 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:09 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:09 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:09 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:09 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:10 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:10 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:10 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:10 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:10 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:10 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:10 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:10 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:10 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:10 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:11 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:11 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:11 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:11 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:11 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:11 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:11 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:11 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:11 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:11 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:12 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:12 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:12 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:12 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:12 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:12 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:12 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:12 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:12 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:12 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:13 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:13 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:13 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:13 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:13 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:13 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:13 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:13 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:13 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:13 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:14 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:14 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:14 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:14 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:14 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:14 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:14 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:14 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:14 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:14 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:15 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:15 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:15 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:15 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:15 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:15 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:15 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:15 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:15 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:15 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:16 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:16 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:16 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:16 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:16 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:16 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:16 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:16 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:16 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:16 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:17 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:17 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:17 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:17 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:17 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:17 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:17 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:17 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:17 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:17 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:18 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:18 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:18 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:18 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:18 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:18 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:18 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:18 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:18 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:18 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:19 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:19 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:19 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:19 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:19 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:19 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:19 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:19 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:19 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:19 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:20 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:20 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:20 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:20 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:20 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:20 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:20 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:20 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:20 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:20 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:21 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:21 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:21 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:21 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:21 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:21 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:21 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:21 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:21 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:21 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:22 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:22 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:22 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:22 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:22 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:22 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:22 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:22 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:22 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:22 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:23 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:23 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:23 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:23 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:23 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:23 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:23 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:23 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:23 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:23 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:24 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:24 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:24 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:24 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:24 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:24 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:24 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:24 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:24 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:24 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:25 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:25 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:25 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:25 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:25 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:25 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:25 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:25 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:25 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:25 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:26 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:26 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:26 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:26 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:26 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:26 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:26 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:26 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:26 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:26 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:27 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:27 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:27 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:27 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:27 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:27 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:27 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:27 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:27 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:27 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:28 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:28 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:28 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:28 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:28 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:28 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:28 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:28 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:28 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:28 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:29 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:29 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:29 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:29 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:29 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:29 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:29 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:29 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:29 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:29 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:30 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:30 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:30 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:30 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:30 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:30 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:30 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:30 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:30 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:30 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:31 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:31 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:31 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:31 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:31 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:31 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:31 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:31 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:31 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:31 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:32 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:32 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:32 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:32 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:32 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:32 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:32 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:32 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:32 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:32 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:33 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:33 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:33 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:33 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:33 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:33 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:33 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:33 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:33 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:33 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:34 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:34 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:34 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:34 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:34 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:34 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:34 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:34 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:34 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:34 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:35 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:35 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:35 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:35 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:35 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:35 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:35 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:35 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:35 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:35 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:36 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:36 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:36 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:36 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:36 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:36 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:36 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:36 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:36 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:36 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:37 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:37 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:37 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:37 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:37 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:37 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:37 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:37 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:37 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:37 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:38 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:38 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:38 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:38 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:38 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:38 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:38 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:38 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:38 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:38 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:39 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:39 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:39 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:39 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:39 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:39 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:39 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:39 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:39 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:39 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:40 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:40 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:40 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:40 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:40 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:40 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:40 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:40 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:40 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:40 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:41 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:41 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:41 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:41 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:41 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:41 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:41 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:41 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:41 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:41 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:42 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:42 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:42 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:42 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:42 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:42 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:42 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:42 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:42 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:42 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:43 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:43 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:43 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:43 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:43 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:43 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:43 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:43 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:43 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:43 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:44 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:44 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:44 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:44 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:44 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:44 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:44 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:44 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:44 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:44 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:45 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:45 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:45 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:45 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:45 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:45 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:45 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:45 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:45 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:45 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:46 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:46 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:46 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:46 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:46 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:46 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:46 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:46 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:46 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:46 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:47 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:47 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:47 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:47 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:47 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:47 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:47 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:47 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:47 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:47 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:48 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:48 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:48 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:48 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:48 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:48 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:48 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:48 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:48 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:48 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:49 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:49 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:49 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:49 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:49 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:49 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:49 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:49 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:49 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:49 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:50 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:50 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:50 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:50 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:50 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:50 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:50 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:50 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:50 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:50 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:51 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:51 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:51 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:51 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:51 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:51 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:51 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:51 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:51 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:51 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:52 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:52 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:52 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:52 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:52 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:52 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:52 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:52 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:52 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:52 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:53 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:53 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:53 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:53 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:53 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:53 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:53 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:53 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:53 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:53 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:54 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:54 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:54 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:54 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:54 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:54 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:54 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:54 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:54 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:54 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:55 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:55 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:55 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:55 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:55 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:55 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:55 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:55 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:55 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:55 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:56 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:56 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:56 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:56 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:56 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:56 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:56 [debug] 12156#2536: timer delta: 501
+2020/07/22 17:53:56 [debug] 12156#2536: worker cycle
+2020/07/22 17:53:56 [debug] 12156#2536: select event: fd:200 wr:0
+2020/07/22 17:53:56 [debug] 12156#2536: select timer: 500
+2020/07/22 17:53:57 [notice] 3564#7700: signal process started
+2020/07/22 17:53:57 [debug] 2636#1232: master WaitForMultipleObjects: 1
+2020/07/22 17:53:57 [notice] 2636#1232: shutting down
+2020/07/22 17:53:57 [debug] 2636#1232: process: 0 11432 00000000 e:1 j:0
+2020/07/22 17:53:57 [debug] 2636#1232: process: 1 12156 00000220 e:0 j:0
+2020/07/22 17:53:57 [debug] 2636#1232: process: 2 6356 00000000 e:1 j:0
+2020/07/22 17:53:57 [debug] 12156#8900: worker WaitForMultipleObjects: 1
+2020/07/22 17:53:57 [notice] 12156#8900: gracefully shutting down
+2020/07/22 17:53:57 [debug] 12156#11072: cache manager WaitForSingleObject: 0
+2020/07/22 17:53:57 [notice] 12156#11072: exiting
+2020/07/22 17:53:57 [debug] 12156#8900: worker exit WaitForMultipleObjects: 2
+2020/07/22 17:53:57 [debug] 12156#2536: select ready 0
+2020/07/22 17:53:57 [debug] 12156#2536: timer delta: 500
+2020/07/22 17:53:57 [debug] 12156#2536: select del event fd:200 ev:0
+2020/07/22 17:53:57 [debug] 12156#2536: close listening 0.0.0.0:80 #200 
+2020/07/22 17:53:57 [notice] 12156#2536: exiting
+2020/07/22 17:53:57 [debug] 12156#8900: worker exit WaitForMultipleObjects: 1
+2020/07/22 17:53:57 [notice] 12156#8900: exit
+2020/07/22 17:53:57 [debug] 12156#8900: flush files
+2020/07/22 17:53:57 [debug] 12156#8900: run cleanup: 0301CD6C
+2020/07/22 17:53:57 [debug] 12156#8900: cleanup resolver
+2020/07/22 17:53:57 [debug] 12156#8900: free: 030038A0, unused: 0
+2020/07/22 17:53:57 [debug] 12156#8900: free: 0300C8B8, unused: 0
+2020/07/22 17:53:57 [debug] 12156#8900: free: 030118C8, unused: 0
+2020/07/22 17:53:57 [debug] 12156#8900: free: 030158D0, unused: 0
+2020/07/22 17:53:57 [debug] 12156#8900: free: 030198D8, unused: 0
+2020/07/22 17:53:57 [debug] 12156#8900: free: 0301D8E0, unused: 8668
+2020/07/22 17:53:57 [debug] 2636#1232: master WaitForMultipleObjects: 4
+2020/07/22 17:53:57 [debug] 2636#1232: reap worker
+2020/07/22 17:53:57 [notice] 2636#1232: worker process 12156 exited with code 0
+2020/07/22 17:53:57 [debug] 2636#1232: process: 0 11432 00000000 e:1 j:0
+2020/07/22 17:53:57 [debug] 2636#1232: process: 1 12156 00000000 e:1 j:0
+2020/07/22 17:53:57 [debug] 2636#1232: process: 2 6356 00000000 e:1 j:0
+2020/07/22 17:53:57 [notice] 2636#1232: exit
+2020/07/22 17:53:57 [debug] 2636#1232: run cleanup: 02DAEBDC
+2020/07/22 17:53:57 [debug] 2636#1232: cleanup resolver
+2020/07/22 17:53:57 [debug] 2636#1232: free: 02D938A0, unused: 0
+2020/07/22 17:53:57 [debug] 2636#1232: free: 02D9F8B8, unused: 0
+2020/07/22 17:53:57 [debug] 2636#1232: free: 02DA38C0, unused: 0
+2020/07/22 17:53:57 [debug] 2636#1232: free: 02DA78C8, unused: 0
+2020/07/22 17:53:57 [debug] 2636#1232: free: 02DAB8D0, unused: 0
+2020/07/22 17:53:57 [debug] 2636#1232: free: 02DAF8D8, unused: 9060
